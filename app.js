@@ -121,3 +121,5 @@ fetch('public/cage_movies_series.json')
 
   })
   .catch(error => console.error('Error loading the data:', error));
+
+

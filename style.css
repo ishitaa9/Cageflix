@@ -14,6 +14,9 @@ body {
     width: 100%;
     height: 50px;
     background-color: black;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
 }
 
 .navbar-container{
@@ -100,6 +103,7 @@ a:link, a:visited, a:active{
 }
 
 .left-menu-icon {
+    cursor: pointer;
     color: white;
     font-size: 20px;
     margin-bottom: 40px;
@@ -362,4 +366,14 @@ a:link, a:visited, a:active{
 
 .footer-right a:hover i {
     transform: scale(1.2);
+}
+@media only screen and (max-width: 650px){
+    .logo{
+        margin-right: 25px;
+        font-size: 20px;
+    }
+    #search-input{
+        height: 6px;
+        width: 135px;
+    }
 }
