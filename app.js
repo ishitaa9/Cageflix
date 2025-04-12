@@ -91,38 +91,30 @@ fetch('public/cage_movies_series.json')
       const searchTerm = this.value.trim();
 
       if (searchTerm === '') {
-        // Show the movie lists again when search is empty
         movieListContainers.forEach(container => container.style.display = 'block');
         arrowIcons.forEach(arrow => arrow.style.display = 'block');
 
-        // Hide search results container
         searchResultContainer.style.display = 'none';
 
-        // Re-populate the movie lists
         populateContainer(newReleasesContainer, data);
         populateContainer(popularContainer, data);
         populateContainer(nextWatchContainer, data);
       } else {
-        // Hide the movie lists and arrows when search is active
         movieListContainers.forEach(container => container.style.display = 'none');
         arrowIcons.forEach(arrow => arrow.style.display = 'none');
 
-        // Perform fuzzy search with fuse.js
         const results = fuse.search(searchTerm);
         const filteredData = results.map(result => result.item);
 
-        // Populate the search result container with filtered data
         searchResultContainer.innerHTML = '';
         filteredData.forEach(item => {
           searchResultContainer.innerHTML += generateMovieItem(item);
         });
 
-        // Show the search results container
         searchResultContainer.style.display = 'block';
       }
     });
 
-    // Initialize the page with the movie data
     populateContainer(newReleasesContainer, data);
     populateContainer(popularContainer, data);
     populateContainer(nextWatchContainer, data);

@@ -90,11 +90,9 @@ a:link, a:visited, a:active{
     display: grid !important;
     grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
     gap: 7rem 6rem;
-    min-height: calc(100vh - 50px);
+    /* min-height: calc(100vh - 50px); */
     padding: 1rem;
-}
-#search-results .inactive{
-    display: none;
+    height: auto;
 }
 
 #search-results .movie-list-item {
@@ -365,4 +363,3 @@ a:link, a:visited, a:active{
 .footer-right a:hover i {
     transform: scale(1.2);
 }
-

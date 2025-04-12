@@ -1,3 +1,5 @@
+let movies = [];
+
 document.addEventListener('DOMContentLoaded', () => {
     fetch('public/cage_movies_series.json')
         .then(response => response.json())
@@ -5,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
             console.log('Loaded data:', data);
 
             // filter data to only include movies
-            const movies = data.filter(item => item.titleType === 'movie');
+            movies = data.filter(item => item.titleType === 'movie');
             console.log('Movies:', movies);
 
             // filter the movies by genre
@@ -91,6 +93,42 @@ document.addEventListener('DOMContentLoaded', () => {
 
             document.getElementById('next-watch-left-arrow').addEventListener('click', () => {
                 scrollMovieList(document.getElementById('comedy'), 'left');
+            });
+
+            // fuse.js initialisation
+            const fuse = new Fuse(movies, {
+                keys: ['primaryTitle', 'genres'],
+                threshold: 0.5,
+            });
+
+            const searchInput = document.getElementById('search-input');
+            const searchResultsContainer = document.getElementById('search-results');
+
+            searchInput.addEventListener('input', () => {
+                const searchTerm = searchInput.value.trim();
+                console.log('Search term:', searchTerm);
+
+                const genreSections = document.querySelectorAll('.movie-list-container');
+                if (searchTerm === '') {
+                    console.log('Search term is empty, showing genre sections');
+
+                    genreSections.forEach(section => section.style.display = 'block');
+                    searchResultsContainer.style.display = 'none';
+                    searchResultsContainer.innerHTML = '';
+                    return;
+                }
+
+                genreSections.forEach(section => section.style.display = 'none');
+
+                const results = fuse.search(searchTerm);
+                console.log('Search results:', results);
+                const filteredMovies = results.map(result => result.item);
+
+                searchResultsContainer.innerHTML = filteredMovies.length
+                    ? filteredMovies.map(generateMovieItem).join('')
+                    : '<p>No results found.</p>';
+
+                searchResultsContainer.style.display = 'block';
             });
 
         })
