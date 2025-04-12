@@ -1,0 +1,7 @@
+venv/
+.DS_Store
+data-script/title.episode.tsv
+data-script/name.basics.tsv
+data-script/title.basics.tsv
+data-script/title.principals.tsv
+data-script/title.ratings.tsv

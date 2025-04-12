@@ -1,0 +1,2317 @@
+[
+    {
+        "tconst": "tt0086216",
+        "titleType": "movie",
+        "primaryTitle": "Rumble Fish",
+        "originalTitle": "Rumble Fish",
+        "isAdult": false,
+        "startYear": 1983,
+        "endYear": null,
+        "runtimeMinutes": 94,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Romance"
+        ],
+        "averageRating": 7.1,
+        "numVotes": 39636
+    },
+    {
+        "tconst": "tt0086525",
+        "titleType": "movie",
+        "primaryTitle": "Valley Girl",
+        "originalTitle": "Valley Girl",
+        "isAdult": false,
+        "startYear": 1983,
+        "endYear": null,
+        "runtimeMinutes": 99,
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "averageRating": 6.4,
+        "numVotes": 19704
+    },
+    {
+        "tconst": "tt0086969",
+        "titleType": "movie",
+        "primaryTitle": "Birdy",
+        "originalTitle": "Birdy",
+        "isAdult": false,
+        "startYear": 1984,
+        "endYear": null,
+        "runtimeMinutes": 120,
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "averageRating": 7.2,
+        "numVotes": 25831
+    },
+    {
+        "tconst": "tt0087089",
+        "titleType": "movie",
+        "primaryTitle": "The Cotton Club",
+        "originalTitle": "The Cotton Club",
+        "isAdult": false,
+        "startYear": 1984,
+        "endYear": null,
+        "runtimeMinutes": 129,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Music"
+        ],
+        "averageRating": 6.6,
+        "numVotes": 20364
+    },
+    {
+        "tconst": "tt0087968",
+        "titleType": "movie",
+        "primaryTitle": "Racing with the Moon",
+        "originalTitle": "Racing with the Moon",
+        "isAdult": false,
+        "startYear": 1984,
+        "endYear": null,
+        "runtimeMinutes": 108,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "averageRating": 6.6,
+        "numVotes": 5443
+    },
+    {
+        "tconst": "tt0090769",
+        "titleType": "movie",
+        "primaryTitle": "The Boy in Blue",
+        "originalTitle": "The Boy in Blue",
+        "isAdult": false,
+        "startYear": 1986,
+        "endYear": null,
+        "runtimeMinutes": 97,
+        "genres": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ],
+        "averageRating": 5.3,
+        "numVotes": 1491
+    },
+    {
+        "tconst": "tt0091738",
+        "titleType": "movie",
+        "primaryTitle": "Peggy Sue Got Married",
+        "originalTitle": "Peggy Sue Got Married",
+        "isAdult": false,
+        "startYear": 1986,
+        "endYear": null,
+        "runtimeMinutes": 103,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "averageRating": 6.4,
+        "numVotes": 42469
+    },
+    {
+        "tconst": "tt0093565",
+        "titleType": "movie",
+        "primaryTitle": "Moonstruck",
+        "originalTitle": "Moonstruck",
+        "isAdult": false,
+        "startYear": 1987,
+        "endYear": null,
+        "runtimeMinutes": 102,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "averageRating": 7.2,
+        "numVotes": 73524
+    },
+    {
+        "tconst": "tt0093822",
+        "titleType": "movie",
+        "primaryTitle": "Raising Arizona",
+        "originalTitle": "Raising Arizona",
+        "isAdult": false,
+        "startYear": 1987,
+        "endYear": null,
+        "runtimeMinutes": 94,
+        "genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "averageRating": 7.3,
+        "numVotes": 155470
+    },
+    {
+        "tconst": "tt0095722",
+        "titleType": "movie",
+        "primaryTitle": "Never on Tuesday",
+        "originalTitle": "Never on Tuesday",
+        "isAdult": false,
+        "startYear": 1988,
+        "endYear": null,
+        "runtimeMinutes": 90,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "averageRating": 4.5,
+        "numVotes": 2358
+    },
+    {
+        "tconst": "tt0098577",
+        "titleType": "movie",
+        "primaryTitle": "Vampire's Kiss",
+        "originalTitle": "Vampire's Kiss",
+        "isAdult": false,
+        "startYear": 1988,
+        "endYear": null,
+        "runtimeMinutes": 103,
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Fantasy"
+        ],
+        "averageRating": 6.1,
+        "numVotes": 23108
+    },
+    {
+        "tconst": "tt0099575",
+        "titleType": "movie",
+        "primaryTitle": "Fire Birds",
+        "originalTitle": "Fire Birds",
+        "isAdult": false,
+        "startYear": 1990,
+        "endYear": null,
+        "runtimeMinutes": 85,
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "averageRating": 4.8,
+        "numVotes": 7474
+    },
+    {
+        "tconst": "tt0100762",
+        "titleType": "movie",
+        "primaryTitle": "Time to Kill",
+        "originalTitle": "Tempo di uccidere",
+        "isAdult": false,
+        "startYear": 1989,
+        "endYear": null,
+        "runtimeMinutes": 110,
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "averageRating": 5.0,
+        "numVotes": 1074
+    },
+    {
+        "tconst": "tt0100935",
+        "titleType": "movie",
+        "primaryTitle": "Wild at Heart",
+        "originalTitle": "Wild at Heart",
+        "isAdult": false,
+        "startYear": 1990,
+        "endYear": null,
+        "runtimeMinutes": 125,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "averageRating": 7.2,
+        "numVotes": 107132
+    },
+    {
+        "tconst": "tt0101004",
+        "titleType": "movie",
+        "primaryTitle": "Zandalee",
+        "originalTitle": "Zandalee",
+        "isAdult": false,
+        "startYear": 1991,
+        "endYear": null,
+        "runtimeMinutes": 100,
+        "genres": [
+            "Drama",
+            "Romance",
+            "Thriller"
+        ],
+        "averageRating": 4.3,
+        "numVotes": 4366
+    },
+    {
+        "tconst": "tt0104438",
+        "titleType": "movie",
+        "primaryTitle": "Honeymoon in Vegas",
+        "originalTitle": "Honeymoon in Vegas",
+        "isAdult": false,
+        "startYear": 1992,
+        "endYear": null,
+        "runtimeMinutes": 96,
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Thriller"
+        ],
+        "averageRating": 5.9,
+        "numVotes": 19752
+    },
+    {
+        "tconst": "tt0105226",
+        "titleType": "movie",
+        "primaryTitle": "Red Rock West",
+        "originalTitle": "Red Rock West",
+        "isAdult": false,
+        "startYear": 1993,
+        "endYear": null,
+        "runtimeMinutes": 98,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "averageRating": 7.0,
+        "numVotes": 26728
+    },
+    {
+        "tconst": "tt0106266",
+        "titleType": "movie",
+        "primaryTitle": "Amos & Andrew",
+        "originalTitle": "Amos & Andrew",
+        "isAdult": false,
+        "startYear": 1993,
+        "endYear": null,
+        "runtimeMinutes": 96,
+        "genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "averageRating": 5.7,
+        "numVotes": 10178
+    },
+    {
+        "tconst": "tt0106684",
+        "titleType": "movie",
+        "primaryTitle": "Deadfall",
+        "originalTitle": "Deadfall",
+        "isAdult": false,
+        "startYear": 1993,
+        "endYear": null,
+        "runtimeMinutes": 98,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "averageRating": 4.0,
+        "numVotes": 4000
+    },
+    {
+        "tconst": "tt0109390",
+        "titleType": "movie",
+        "primaryTitle": "A Century of Cinema",
+        "originalTitle": "A Century of Cinema",
+        "isAdult": false,
+        "startYear": 1994,
+        "endYear": null,
+        "runtimeMinutes": 72,
+        "genres": [
+            "Documentary"
+        ],
+        "averageRating": 6.5,
+        "numVotes": 342
+    },
+    {
+        "tconst": "tt0109951",
+        "titleType": "movie",
+        "primaryTitle": "Guarding Tess",
+        "originalTitle": "Guarding Tess",
+        "isAdult": false,
+        "startYear": 1994,
+        "endYear": null,
+        "runtimeMinutes": 96,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "averageRating": 6.2,
+        "numVotes": 20129
+    },
+    {
+        "tconst": "tt0110167",
+        "titleType": "movie",
+        "primaryTitle": "It Could Happen to You",
+        "originalTitle": "It Could Happen to You",
+        "isAdult": false,
+        "startYear": 1994,
+        "endYear": null,
+        "runtimeMinutes": 101,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "averageRating": 6.4,
+        "numVotes": 46569
+    },
+    {
+        "tconst": "tt0111477",
+        "titleType": "movie",
+        "primaryTitle": "Trapped in Paradise",
+        "originalTitle": "Trapped in Paradise",
+        "isAdult": false,
+        "startYear": 1994,
+        "endYear": null,
+        "runtimeMinutes": 111,
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Crime"
+        ],
+        "averageRating": 5.9,
+        "numVotes": 17288
+    },
+    {
+        "tconst": "tt0113552",
+        "titleType": "movie",
+        "primaryTitle": "Kiss of Death",
+        "originalTitle": "Kiss of Death",
+        "isAdult": false,
+        "startYear": 1995,
+        "endYear": null,
+        "runtimeMinutes": 101,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "averageRating": 5.9,
+        "numVotes": 20678
+    },
+    {
+        "tconst": "tt0113627",
+        "titleType": "movie",
+        "primaryTitle": "Leaving Las Vegas",
+        "originalTitle": "Leaving Las Vegas",
+        "isAdult": false,
+        "startYear": 1995,
+        "endYear": null,
+        "runtimeMinutes": 111,
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "averageRating": 7.5,
+        "numVotes": 140151
+    },
+    {
+        "tconst": "tt0117500",
+        "titleType": "movie",
+        "primaryTitle": "The Rock",
+        "originalTitle": "The Rock",
+        "isAdult": false,
+        "startYear": 1996,
+        "endYear": null,
+        "runtimeMinutes": 136,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "averageRating": 7.4,
+        "numVotes": 368779
+    },
+    {
+        "tconst": "tt0118880",
+        "titleType": "movie",
+        "primaryTitle": "Con Air",
+        "originalTitle": "Con Air",
+        "isAdult": false,
+        "startYear": 1997,
+        "endYear": null,
+        "runtimeMinutes": 115,
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "averageRating": 6.9,
+        "numVotes": 329312
+    },
+    {
+        "tconst": "tt0119094",
+        "titleType": "movie",
+        "primaryTitle": "Face/Off",
+        "originalTitle": "Face/Off",
+        "isAdult": false,
+        "startYear": 1997,
+        "endYear": null,
+        "runtimeMinutes": 138,
+        "genres": [
+            "Action",
+            "Crime",
+            "Sci-Fi"
+        ],
+        "averageRating": 7.3,
+        "numVotes": 413433
+    },
+    {
+        "tconst": "tt0120632",
+        "titleType": "movie",
+        "primaryTitle": "City of Angels",
+        "originalTitle": "City of Angels",
+        "isAdult": false,
+        "startYear": 1998,
+        "endYear": null,
+        "runtimeMinutes": 114,
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "averageRating": 6.7,
+        "numVotes": 131172
+    },
+    {
+        "tconst": "tt0120832",
+        "titleType": "movie",
+        "primaryTitle": "Snake Eyes",
+        "originalTitle": "Snake Eyes",
+        "isAdult": false,
+        "startYear": 1998,
+        "endYear": null,
+        "runtimeMinutes": 98,
+        "genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "averageRating": 6.1,
+        "numVotes": 89466
+    },
+    {
+        "tconst": "tt0134273",
+        "titleType": "movie",
+        "primaryTitle": "8MM",
+        "originalTitle": "8MM",
+        "isAdult": false,
+        "startYear": 1999,
+        "endYear": null,
+        "runtimeMinutes": 123,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "averageRating": 6.6,
+        "numVotes": 146984
+    },
+    {
+        "tconst": "tt0163988",
+        "titleType": "movie",
+        "primaryTitle": "Bringing Out the Dead",
+        "originalTitle": "Bringing Out the Dead",
+        "isAdult": false,
+        "startYear": 1999,
+        "endYear": null,
+        "runtimeMinutes": 121,
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "averageRating": 6.9,
+        "numVotes": 78794
+    },
+    {
+        "tconst": "tt0187078",
+        "titleType": "movie",
+        "primaryTitle": "Gone in 60 Seconds",
+        "originalTitle": "Gone in Sixty Seconds",
+        "isAdult": false,
+        "startYear": 2000,
+        "endYear": null,
+        "runtimeMinutes": 118,
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "averageRating": 6.5,
+        "numVotes": 302301
+    },
+    {
+        "tconst": "tt0189998",
+        "titleType": "movie",
+        "primaryTitle": "Shadow of the Vampire",
+        "originalTitle": "Shadow of the Vampire",
+        "isAdult": false,
+        "startYear": 2000,
+        "endYear": null,
+        "runtimeMinutes": 92,
+        "genres": [
+            "Drama",
+            "Horror"
+        ],
+        "averageRating": 6.9,
+        "numVotes": 46515
+    },
+    {
+        "tconst": "tt0205314",
+        "titleType": "movie",
+        "primaryTitle": "Inside the Golden Statue",
+        "originalTitle": "Pesel Ha'Zahav",
+        "isAdult": false,
+        "startYear": 1998,
+        "endYear": null,
+        "runtimeMinutes": 55,
+        "genres": [
+            "Documentary"
+        ],
+        "averageRating": 5.8,
+        "numVotes": 31
+    },
+    {
+        "tconst": "tt0218967",
+        "titleType": "movie",
+        "primaryTitle": "The Family Man",
+        "originalTitle": "The Family Man",
+        "isAdult": false,
+        "startYear": 2000,
+        "endYear": null,
+        "runtimeMinutes": 125,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "averageRating": 6.8,
+        "numVotes": 125855
+    },
+    {
+        "tconst": "tt0221823",
+        "titleType": "movie",
+        "primaryTitle": "Bel Air",
+        "originalTitle": "Bel Air",
+        "isAdult": false,
+        "startYear": 2000,
+        "endYear": null,
+        "runtimeMinutes": 110,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "averageRating": 7.2,
+        "numVotes": 61
+    },
+    {
+        "tconst": "tt0238112",
+        "titleType": "movie",
+        "primaryTitle": "Captain Corelli's Mandolin",
+        "originalTitle": "Captain Corelli's Mandolin",
+        "isAdult": false,
+        "startYear": 2001,
+        "endYear": null,
+        "runtimeMinutes": 131,
+        "genres": [
+            "Drama",
+            "Music",
+            "Romance"
+        ],
+        "averageRating": 5.9,
+        "numVotes": 36704
+    },
+    {
+        "tconst": "tt0245562",
+        "titleType": "movie",
+        "primaryTitle": "Windtalkers",
+        "originalTitle": "Windtalkers",
+        "isAdult": false,
+        "startYear": 2002,
+        "endYear": null,
+        "runtimeMinutes": 134,
+        "genres": [
+            "Action",
+            "Drama",
+            "War"
+        ],
+        "averageRating": 6.1,
+        "numVotes": 75308
+    },
+    {
+        "tconst": "tt0246354",
+        "titleType": "tvSeries",
+        "primaryTitle": "Very Important Pennis",
+        "originalTitle": "Very Important Pennis",
+        "isAdult": false,
+        "startYear": 1996,
+        "endYear": 1997,
+        "runtimeMinutes": 30,
+        "genres": [
+            "Comedy"
+        ],
+        "averageRating": 7.8,
+        "numVotes": 216
+    },
+    {
+        "tconst": "tt0259324",
+        "titleType": "movie",
+        "primaryTitle": "Ghost Rider",
+        "originalTitle": "Ghost Rider",
+        "isAdult": false,
+        "startYear": 2007,
+        "endYear": null,
+        "runtimeMinutes": 110,
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Thriller"
+        ],
+        "averageRating": 5.3,
+        "numVotes": 260211
+    },
+    {
+        "tconst": "tt0259929",
+        "titleType": "movie",
+        "primaryTitle": "Christmas Carol: The Movie",
+        "originalTitle": "Christmas Carol: The Movie",
+        "isAdult": false,
+        "startYear": 2001,
+        "endYear": null,
+        "runtimeMinutes": 77,
+        "genres": [
+            "Animation",
+            "Family",
+            "Fantasy"
+        ],
+        "averageRating": 5.3,
+        "numVotes": 2283
+    },
+    {
+        "tconst": "tt0268126",
+        "titleType": "movie",
+        "primaryTitle": "Adaptation.",
+        "originalTitle": "Adaptation.",
+        "isAdult": false,
+        "startYear": 2002,
+        "endYear": null,
+        "runtimeMinutes": 115,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "averageRating": 7.7,
+        "numVotes": 208357
+    },
+    {
+        "tconst": "tt0289992",
+        "titleType": "movie",
+        "primaryTitle": "The Life of David Gale",
+        "originalTitle": "The Life of David Gale",
+        "isAdult": false,
+        "startYear": 2003,
+        "endYear": null,
+        "runtimeMinutes": 130,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "averageRating": 7.5,
+        "numVotes": 129201
+    },
+    {
+        "tconst": "tt0305973",
+        "titleType": "movie",
+        "primaryTitle": "Sonny",
+        "originalTitle": "Sonny",
+        "isAdult": false,
+        "startYear": 2002,
+        "endYear": null,
+        "runtimeMinutes": 110,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "averageRating": 5.6,
+        "numVotes": 4730
+    },
+    {
+        "tconst": "tt0315677",
+        "titleType": "tvSeries",
+        "primaryTitle": "HypaSpace",
+        "originalTitle": "HypaSpace",
+        "isAdult": false,
+        "startYear": 2002,
+        "endYear": 2008,
+        "runtimeMinutes": 25,
+        "genres": [
+            "Documentary"
+        ],
+        "averageRating": 5.4,
+        "numVotes": 126
+    },
+    {
+        "tconst": "tt0325805",
+        "titleType": "movie",
+        "primaryTitle": "Matchstick Men",
+        "originalTitle": "Matchstick Men",
+        "isAdult": false,
+        "startYear": 2003,
+        "endYear": null,
+        "runtimeMinutes": 116,
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "averageRating": 7.3,
+        "numVotes": 141861
+    },
+    {
+        "tconst": "tt0366625",
+        "titleType": "movie",
+        "primaryTitle": "Spaghetti Requiem",
+        "originalTitle": "Italian Soldiers",
+        "isAdult": false,
+        "startYear": 2001,
+        "endYear": null,
+        "runtimeMinutes": 56,
+        "genres": [
+            "Documentary"
+        ],
+        "averageRating": 7.6,
+        "numVotes": 30
+    },
+    {
+        "tconst": "tt0368891",
+        "titleType": "movie",
+        "primaryTitle": "National Treasure",
+        "originalTitle": "National Treasure",
+        "isAdult": false,
+        "startYear": 2004,
+        "endYear": null,
+        "runtimeMinutes": 131,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Mystery"
+        ],
+        "averageRating": 6.9,
+        "numVotes": 366095
+    },
+    {
+        "tconst": "tt0375568",
+        "titleType": "movie",
+        "primaryTitle": "Astro Boy",
+        "originalTitle": "Astro Boy",
+        "isAdult": false,
+        "startYear": 2009,
+        "endYear": null,
+        "runtimeMinutes": 94,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "averageRating": 6.2,
+        "numVotes": 41303
+    },
+    {
+        "tconst": "tt0384680",
+        "titleType": "movie",
+        "primaryTitle": "The Weather Man",
+        "originalTitle": "The Weather Man",
+        "isAdult": false,
+        "startYear": 2005,
+        "endYear": null,
+        "runtimeMinutes": 102,
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "averageRating": 6.6,
+        "numVotes": 84738
+    },
+    {
+        "tconst": "tt0399295",
+        "titleType": "movie",
+        "primaryTitle": "Lord of War",
+        "originalTitle": "Lord of War",
+        "isAdult": false,
+        "startYear": 2005,
+        "endYear": null,
+        "runtimeMinutes": 122,
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "averageRating": 7.6,
+        "numVotes": 347893
+    },
+    {
+        "tconst": "tt0429589",
+        "titleType": "movie",
+        "primaryTitle": "The Ant Bully",
+        "originalTitle": "The Ant Bully",
+        "isAdult": false,
+        "startYear": 2006,
+        "endYear": null,
+        "runtimeMinutes": 88,
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "averageRating": 5.8,
+        "numVotes": 43001
+    },
+    {
+        "tconst": "tt0435705",
+        "titleType": "movie",
+        "primaryTitle": "Next",
+        "originalTitle": "Next",
+        "isAdult": false,
+        "startYear": 2007,
+        "endYear": null,
+        "runtimeMinutes": 96,
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "averageRating": 6.2,
+        "numVotes": 170261
+    },
+    {
+        "tconst": "tt0448011",
+        "titleType": "movie",
+        "primaryTitle": "Knowing",
+        "originalTitle": "Knowing",
+        "isAdult": false,
+        "startYear": 2009,
+        "endYear": null,
+        "runtimeMinutes": 121,
+        "genres": [
+            "Mystery",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "averageRating": 6.2,
+        "numVotes": 255194
+    },
+    {
+        "tconst": "tt0450345",
+        "titleType": "movie",
+        "primaryTitle": "The Wicker Man",
+        "originalTitle": "The Wicker Man",
+        "isAdult": false,
+        "startYear": 2006,
+        "endYear": null,
+        "runtimeMinutes": 102,
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "averageRating": 3.8,
+        "numVotes": 73199
+    },
+    {
+        "tconst": "tt0465234",
+        "titleType": "movie",
+        "primaryTitle": "National Treasure: Book of Secrets",
+        "originalTitle": "National Treasure: Book of Secrets",
+        "isAdult": false,
+        "startYear": 2007,
+        "endYear": null,
+        "runtimeMinutes": 124,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Mystery"
+        ],
+        "averageRating": 6.5,
+        "numVotes": 260769
+    },
+    {
+        "tconst": "tt0469641",
+        "titleType": "movie",
+        "primaryTitle": "World Trade Center",
+        "originalTitle": "World Trade Center",
+        "isAdult": false,
+        "startYear": 2006,
+        "endYear": null,
+        "runtimeMinutes": 129,
+        "genres": [
+            "Drama",
+            "History",
+            "Thriller"
+        ],
+        "averageRating": 6.0,
+        "numVotes": 89457
+    },
+    {
+        "tconst": "tt0479997",
+        "titleType": "movie",
+        "primaryTitle": "Season of the Witch",
+        "originalTitle": "Season of the Witch",
+        "isAdult": false,
+        "startYear": 2011,
+        "endYear": null,
+        "runtimeMinutes": 95,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "averageRating": 5.4,
+        "numVotes": 100392
+    },
+    {
+        "tconst": "tt0481499",
+        "titleType": "movie",
+        "primaryTitle": "The Croods",
+        "originalTitle": "The Croods",
+        "isAdult": false,
+        "startYear": 2013,
+        "endYear": null,
+        "runtimeMinutes": 98,
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "averageRating": 7.1,
+        "numVotes": 241153
+    },
+    {
+        "tconst": "tt0763831",
+        "titleType": "movie",
+        "primaryTitle": "A Thousand Words",
+        "originalTitle": "A Thousand Words",
+        "isAdult": false,
+        "startYear": 2012,
+        "endYear": null,
+        "runtimeMinutes": 91,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "averageRating": 5.9,
+        "numVotes": 46299
+    },
+    {
+        "tconst": "tt0796267",
+        "titleType": "tvSeries",
+        "primaryTitle": "Hi Octane",
+        "originalTitle": "Hi Octane",
+        "isAdult": false,
+        "startYear": 1994,
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Comedy"
+        ],
+        "averageRating": 5.2,
+        "numVotes": 59
+    },
+    {
+        "tconst": "tt0805631",
+        "titleType": "movie",
+        "primaryTitle": "Too Tough to Die: A Tribute to Johnny Ramone",
+        "originalTitle": "Too Tough to Die: A Tribute to Johnny Ramone",
+        "isAdult": false,
+        "startYear": 2006,
+        "endYear": null,
+        "runtimeMinutes": 80,
+        "genres": [
+            "Documentary",
+            "Music"
+        ],
+        "averageRating": 7.3,
+        "numVotes": 250
+    },
+    {
+        "tconst": "tt0814022",
+        "titleType": "movie",
+        "primaryTitle": "Bangkok Dangerous",
+        "originalTitle": "Bangkok Dangerous",
+        "isAdult": false,
+        "startYear": 2008,
+        "endYear": null,
+        "runtimeMinutes": 99,
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "averageRating": 5.3,
+        "numVotes": 58947
+    },
+    {
+        "tconst": "tt0843412",
+        "titleType": "tvSeries",
+        "primaryTitle": "Fantastico 10",
+        "originalTitle": "Fantastico 10",
+        "isAdult": false,
+        "startYear": 1989,
+        "endYear": null,
+        "runtimeMinutes": 140,
+        "genres": [
+            "Comedy",
+            "Game-Show",
+            "Music"
+        ],
+        "averageRating": 6.1,
+        "numVotes": 17
+    },
+    {
+        "tconst": "tt0963966",
+        "titleType": "movie",
+        "primaryTitle": "The Sorcerer's Apprentice",
+        "originalTitle": "The Sorcerer's Apprentice",
+        "isAdult": false,
+        "startYear": 2010,
+        "endYear": null,
+        "runtimeMinutes": 109,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Family"
+        ],
+        "averageRating": 6.1,
+        "numVotes": 173205
+    },
+    {
+        "tconst": "tt10011412",
+        "titleType": "movie",
+        "primaryTitle": "You Don't Nomi",
+        "originalTitle": "You Don't Nomi",
+        "isAdult": false,
+        "startYear": 2019,
+        "endYear": null,
+        "runtimeMinutes": 92,
+        "genres": [
+            "Documentary"
+        ],
+        "averageRating": 6.7,
+        "numVotes": 1332
+    },
+    {
+        "tconst": "tt10690676",
+        "titleType": "movie",
+        "primaryTitle": "Dark",
+        "originalTitle": "Dark",
+        "isAdult": false,
+        "startYear": 2017,
+        "endYear": null,
+        "runtimeMinutes": 75,
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "averageRating": 6.0,
+        "numVotes": 550
+    },
+    {
+        "tconst": "tt1071875",
+        "titleType": "movie",
+        "primaryTitle": "Ghost Rider: Spirit of Vengeance",
+        "originalTitle": "Ghost Rider: Spirit of Vengeance",
+        "isAdult": false,
+        "startYear": 2011,
+        "endYear": null,
+        "runtimeMinutes": 96,
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Thriller"
+        ],
+        "averageRating": 4.3,
+        "numVotes": 130016
+    },
+    {
+        "tconst": "tt1095217",
+        "titleType": "movie",
+        "primaryTitle": "Bad Lieutenant: Port of Call New Orleans",
+        "originalTitle": "The Bad Lieutenant: Port of Call - New Orleans",
+        "isAdult": false,
+        "startYear": 2009,
+        "endYear": null,
+        "runtimeMinutes": 122,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "averageRating": 6.6,
+        "numVotes": 82826
+    },
+    {
+        "tconst": "tt11003218",
+        "titleType": "movie",
+        "primaryTitle": "Pig",
+        "originalTitle": "Pig",
+        "isAdult": false,
+        "startYear": 2021,
+        "endYear": null,
+        "runtimeMinutes": 92,
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "averageRating": 6.9,
+        "numVotes": 98060
+    },
+    {
+        "tconst": "tt11291274",
+        "titleType": "movie",
+        "primaryTitle": "The Unbearable Weight of Massive Talent",
+        "originalTitle": "The Unbearable Weight of Massive Talent",
+        "isAdult": false,
+        "startYear": 2022,
+        "endYear": null,
+        "runtimeMinutes": 107,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "averageRating": 7.0,
+        "numVotes": 169000
+    },
+    {
+        "tconst": "tt11358390",
+        "titleType": "movie",
+        "primaryTitle": "Renfield",
+        "originalTitle": "Renfield",
+        "isAdult": false,
+        "startYear": 2023,
+        "endYear": null,
+        "runtimeMinutes": 93,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "averageRating": 6.4,
+        "numVotes": 110949
+    },
+    {
+        "tconst": "tt1214962",
+        "titleType": "movie",
+        "primaryTitle": "Seeking Justice",
+        "originalTitle": "Seeking Justice",
+        "isAdult": false,
+        "startYear": 2011,
+        "endYear": null,
+        "runtimeMinutes": 105,
+        "genres": [
+            "Action",
+            "Drama",
+            "Mystery"
+        ],
+        "averageRating": 6.1,
+        "numVotes": 48696
+    },
+    {
+        "tconst": "tt1232381",
+        "titleType": "tvSeries",
+        "primaryTitle": "Movie Rush",
+        "originalTitle": "Movie Rush",
+        "isAdult": false,
+        "startYear": 2006,
+        "endYear": 2010,
+        "runtimeMinutes": 10,
+        "genres": [
+            "Documentary"
+        ],
+        "averageRating": 5.5,
+        "numVotes": 33
+    },
+    {
+        "tconst": "tt1250777",
+        "titleType": "movie",
+        "primaryTitle": "Kick-Ass",
+        "originalTitle": "Kick-Ass",
+        "isAdult": false,
+        "startYear": 2010,
+        "endYear": null,
+        "runtimeMinutes": 117,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "averageRating": 7.6,
+        "numVotes": 607931
+    },
+    {
+        "tconst": "tt1274586",
+        "titleType": "movie",
+        "primaryTitle": "Dying of the Light",
+        "originalTitle": "Dying of the Light",
+        "isAdult": false,
+        "startYear": 2014,
+        "endYear": null,
+        "runtimeMinutes": 94,
+        "genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "averageRating": 4.5,
+        "numVotes": 11886
+    },
+    {
+        "tconst": "tt13060064",
+        "titleType": "tvSeries",
+        "primaryTitle": "Highfire",
+        "originalTitle": "Highfire",
+        "isAdult": false,
+        "startYear": null,
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "averageRating": null,
+        "numVotes": null
+    },
+    {
+        "tconst": "tt13617060",
+        "titleType": "tvSeries",
+        "primaryTitle": "History of Swear Words",
+        "originalTitle": "History of Swear Words",
+        "isAdult": false,
+        "startYear": 2021,
+        "endYear": 2021,
+        "runtimeMinutes": null,
+        "genres": [
+            "Comedy",
+            "Documentary"
+        ],
+        "averageRating": 6.4,
+        "numVotes": 5680
+    },
+    {
+        "tconst": "tt1462759",
+        "titleType": "movie",
+        "primaryTitle": "Butcher's Crossing",
+        "originalTitle": "Butcher's Crossing",
+        "isAdult": false,
+        "startYear": 2022,
+        "endYear": null,
+        "runtimeMinutes": 105,
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Western"
+        ],
+        "averageRating": 5.6,
+        "numVotes": 6279
+    },
+    {
+        "tconst": "tt14827638",
+        "titleType": "movie",
+        "primaryTitle": "The Retirement Plan",
+        "originalTitle": "The Retirement Plan",
+        "isAdult": false,
+        "startYear": 2023,
+        "endYear": null,
+        "runtimeMinutes": 103,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "averageRating": 5.1,
+        "numVotes": 9532
+    },
+    {
+        "tconst": "tt1489335",
+        "titleType": "tvSeries",
+        "primaryTitle": "ES.TV HD",
+        "originalTitle": "ES.TV HD",
+        "isAdult": false,
+        "startYear": 2009,
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Talk-Show"
+        ],
+        "averageRating": 3.0,
+        "numVotes": 69
+    },
+    {
+        "tconst": "tt1502404",
+        "titleType": "movie",
+        "primaryTitle": "Drive Angry",
+        "originalTitle": "Drive Angry",
+        "isAdult": false,
+        "startYear": 2011,
+        "endYear": null,
+        "runtimeMinutes": 104,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "averageRating": 5.4,
+        "numVotes": 105012
+    },
+    {
+        "tconst": "tt15046058",
+        "titleType": "tvSeries",
+        "primaryTitle": "The Roles That Changed My Life",
+        "originalTitle": "The Roles That Changed My Life",
+        "isAdult": false,
+        "startYear": 2021,
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": [],
+        "averageRating": 8.2,
+        "numVotes": 190
+    },
+    {
+        "tconst": "tt1519189",
+        "titleType": "tvSeries",
+        "primaryTitle": "The Hollywood Machine",
+        "originalTitle": "The Hollywood Machine",
+        "isAdult": false,
+        "startYear": 2002,
+        "endYear": 2002,
+        "runtimeMinutes": 52,
+        "genres": [
+            "Documentary"
+        ],
+        "averageRating": 6.4,
+        "numVotes": 9
+    },
+    {
+        "tconst": "tt1552224",
+        "titleType": "movie",
+        "primaryTitle": "Outcast",
+        "originalTitle": "Outcast",
+        "isAdult": false,
+        "startYear": 2014,
+        "endYear": null,
+        "runtimeMinutes": 99,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "averageRating": 4.6,
+        "numVotes": 14602
+    },
+    {
+        "tconst": "tt15701326",
+        "titleType": "movie",
+        "primaryTitle": "Ah My Goddess: Bad Goddess Touched by an Angel",
+        "originalTitle": "Ah My Goddess: Bad Goddess Touched by an Angel",
+        "isAdult": false,
+        "startYear": 2021,
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Animation"
+        ],
+        "averageRating": 5.7,
+        "numVotes": 9
+    },
+    {
+        "tconst": "tt1610013",
+        "titleType": "movie",
+        "primaryTitle": "Can't Stand Losing You: Surviving the Police",
+        "originalTitle": "Can't Stand Losing You",
+        "isAdult": false,
+        "startYear": 2012,
+        "endYear": null,
+        "runtimeMinutes": 79,
+        "genres": [
+            "Biography",
+            "Documentary",
+            "History"
+        ],
+        "averageRating": 6.9,
+        "numVotes": 902
+    },
+    {
+        "tconst": "tt16360004",
+        "titleType": "movie",
+        "primaryTitle": "Spider-Man: Beyond the Spider-Verse",
+        "originalTitle": "Spider-Man: Beyond the Spider-Verse",
+        "isAdult": false,
+        "startYear": 2027,
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "averageRating": null,
+        "numVotes": null
+    },
+    {
+        "tconst": "tt1640715",
+        "titleType": "movie",
+        "primaryTitle": "The Courtship of Eddie's Father",
+        "originalTitle": "The Courtship of Eddie's Father",
+        "isAdult": false,
+        "startYear": null,
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Comedy"
+        ],
+        "averageRating": null,
+        "numVotes": null
+    },
+    {
+        "tconst": "tt1656186",
+        "titleType": "movie",
+        "primaryTitle": "Stolen",
+        "originalTitle": "Stolen",
+        "isAdult": false,
+        "startYear": 2012,
+        "endYear": null,
+        "runtimeMinutes": 96,
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "averageRating": 5.5,
+        "numVotes": 47033
+    },
+    {
+        "tconst": "tt1674784",
+        "titleType": "movie",
+        "primaryTitle": "Trespass",
+        "originalTitle": "Trespass",
+        "isAdult": false,
+        "startYear": 2011,
+        "endYear": null,
+        "runtimeMinutes": 91,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "averageRating": 5.3,
+        "numVotes": 46525
+    },
+    {
+        "tconst": "tt1799915",
+        "titleType": "tvSeries",
+        "primaryTitle": "Jump Start Live",
+        "originalTitle": "Jump Start Live",
+        "isAdult": false,
+        "startYear": 2011,
+        "endYear": null,
+        "runtimeMinutes": 60,
+        "genres": [
+            "Talk-Show"
+        ],
+        "averageRating": 6.8,
+        "numVotes": 16
+    },
+    {
+        "tconst": "tt2005374",
+        "titleType": "movie",
+        "primaryTitle": "The Frozen Ground",
+        "originalTitle": "The Frozen Ground",
+        "isAdult": false,
+        "startYear": 2013,
+        "endYear": null,
+        "runtimeMinutes": 105,
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "averageRating": 6.4,
+        "numVotes": 70565
+    },
+    {
+        "tconst": "tt2032572",
+        "titleType": "movie",
+        "primaryTitle": "USS Indianapolis: Men of Courage",
+        "originalTitle": "USS Indianapolis: Men of Courage",
+        "isAdult": false,
+        "startYear": 2016,
+        "endYear": null,
+        "runtimeMinutes": 128,
+        "genres": [
+            "Action",
+            "Drama",
+            "History"
+        ],
+        "averageRating": 5.3,
+        "numVotes": 14889
+    },
+    {
+        "tconst": "tt2132638",
+        "titleType": "tvSeries",
+        "primaryTitle": "Close Up",
+        "originalTitle": "Close Up",
+        "isAdult": false,
+        "startYear": 2011,
+        "endYear": null,
+        "runtimeMinutes": 26,
+        "genres": [
+            "Biography",
+            "Documentary"
+        ],
+        "averageRating": 6.4,
+        "numVotes": 61
+    },
+    {
+        "tconst": "tt21942866",
+        "titleType": "movie",
+        "primaryTitle": "Dream Scenario",
+        "originalTitle": "Dream Scenario",
+        "isAdult": false,
+        "startYear": 2023,
+        "endYear": null,
+        "runtimeMinutes": 102,
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "averageRating": 6.8,
+        "numVotes": 84131
+    },
+    {
+        "tconst": "tt21991654",
+        "titleType": "movie",
+        "primaryTitle": "Sympathy for the Devil",
+        "originalTitle": "Sympathy for the Devil",
+        "isAdult": false,
+        "startYear": 2023,
+        "endYear": null,
+        "runtimeMinutes": 90,
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "averageRating": 5.5,
+        "numVotes": 12563
+    },
+    {
+        "tconst": "tt22939186",
+        "titleType": "movie",
+        "primaryTitle": "Arcadian",
+        "originalTitle": "Arcadian",
+        "isAdult": false,
+        "startYear": 2024,
+        "endYear": null,
+        "runtimeMinutes": 92,
+        "genres": [
+            "Action",
+            "Drama",
+            "Horror"
+        ],
+        "averageRating": 5.5,
+        "numVotes": 22722
+    },
+    {
+        "tconst": "tt23468450",
+        "titleType": "movie",
+        "primaryTitle": "Longlegs",
+        "originalTitle": "Longlegs",
+        "isAdult": false,
+        "startYear": 2024,
+        "endYear": null,
+        "runtimeMinutes": 101,
+        "genres": [
+            "Crime",
+            "Horror",
+            "Thriller"
+        ],
+        "averageRating": 6.6,
+        "numVotes": 183084
+    },
+    {
+        "tconst": "tt2382396",
+        "titleType": "movie",
+        "primaryTitle": "Joe",
+        "originalTitle": "Joe",
+        "isAdult": false,
+        "startYear": 2013,
+        "endYear": null,
+        "runtimeMinutes": 117,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "averageRating": 6.8,
+        "numVotes": 52389
+    },
+    {
+        "tconst": "tt23951630",
+        "titleType": "tvSeries",
+        "primaryTitle": "AEG Live Studio Actors on Actors",
+        "originalTitle": "AEG Live Studio Actors on Actors",
+        "isAdult": false,
+        "startYear": 2019,
+        "endYear": null,
+        "runtimeMinutes": 90,
+        "genres": [
+            "Talk-Show"
+        ],
+        "averageRating": 7.0,
+        "numVotes": 8
+    },
+    {
+        "tconst": "tt2401807",
+        "titleType": "movie",
+        "primaryTitle": "Rage",
+        "originalTitle": "Tokarev",
+        "isAdult": false,
+        "startYear": 2014,
+        "endYear": null,
+        "runtimeMinutes": 92,
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "averageRating": 5.0,
+        "numVotes": 25969
+    },
+    {
+        "tconst": "tt2467046",
+        "titleType": "movie",
+        "primaryTitle": "Left Behind",
+        "originalTitle": "Left Behind",
+        "isAdult": false,
+        "startYear": 2014,
+        "endYear": null,
+        "runtimeMinutes": 110,
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "averageRating": 3.1,
+        "numVotes": 43583
+    },
+    {
+        "tconst": "tt24818230",
+        "titleType": "movie",
+        "primaryTitle": "Madden",
+        "originalTitle": "Madden",
+        "isAdult": false,
+        "startYear": null,
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": [],
+        "averageRating": null,
+        "numVotes": null
+    },
+    {
+        "tconst": "tt24850708",
+        "titleType": "movie",
+        "primaryTitle": "Gunslingers",
+        "originalTitle": "Gunslingers",
+        "isAdult": false,
+        "startYear": 2025,
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Action",
+            "Drama",
+            "Western"
+        ],
+        "averageRating": null,
+        "numVotes": null
+    },
+    {
+        "tconst": "tt2646218",
+        "titleType": "movie",
+        "primaryTitle": "Was ich bin sind meine Filme - Teil 2... nach 30 Jahren",
+        "originalTitle": "Was ich bin sind meine Filme - Teil 2... nach 30 Jahren",
+        "isAdult": false,
+        "startYear": 2010,
+        "endYear": null,
+        "runtimeMinutes": 98,
+        "genres": [
+            "Documentary"
+        ],
+        "averageRating": 5.9,
+        "numVotes": 16
+    },
+    {
+        "tconst": "tt27706987",
+        "titleType": "movie",
+        "primaryTitle": "Lords of War",
+        "originalTitle": "Lords of War",
+        "isAdult": false,
+        "startYear": null,
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "averageRating": null,
+        "numVotes": null
+    },
+    {
+        "tconst": "tt27813235",
+        "titleType": "movie",
+        "primaryTitle": "The Surfer",
+        "originalTitle": "The Surfer",
+        "isAdult": false,
+        "startYear": 2024,
+        "endYear": null,
+        "runtimeMinutes": 103,
+        "genres": [
+            "Thriller"
+        ],
+        "averageRating": 6.6,
+        "numVotes": 646
+    },
+    {
+        "tconst": "tt2850386",
+        "titleType": "movie",
+        "primaryTitle": "The Croods: A New Age",
+        "originalTitle": "The Croods: A New Age",
+        "isAdult": false,
+        "startYear": 2020,
+        "endYear": null,
+        "runtimeMinutes": 95,
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "averageRating": 6.9,
+        "numVotes": 56898
+    },
+    {
+        "tconst": "tt30460310",
+        "titleType": "tvSeries",
+        "primaryTitle": "Spider-Noir",
+        "originalTitle": "Spider-Noir",
+        "isAdult": false,
+        "startYear": null,
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "averageRating": null,
+        "numVotes": null
+    },
+    {
+        "tconst": "tt32304349",
+        "titleType": "movie",
+        "primaryTitle": "The Carpenter's Son",
+        "originalTitle": "The Carpenter's Son",
+        "isAdult": false,
+        "startYear": 2025,
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Horror"
+        ],
+        "averageRating": null,
+        "numVotes": null
+    },
+    {
+        "tconst": "tt32604452",
+        "titleType": "movie",
+        "primaryTitle": "The Prince",
+        "originalTitle": "The Prince",
+        "isAdult": false,
+        "startYear": null,
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Drama"
+        ],
+        "averageRating": null,
+        "numVotes": null
+    },
+    {
+        "tconst": "tt33384287",
+        "titleType": "movie",
+        "primaryTitle": "Shadowland",
+        "originalTitle": "Shadowland",
+        "isAdult": false,
+        "startYear": 2024,
+        "endYear": null,
+        "runtimeMinutes": 98,
+        "genres": [
+            "Documentary"
+        ],
+        "averageRating": 6.5,
+        "numVotes": 154
+    },
+    {
+        "tconst": "tt3481634",
+        "titleType": "movie",
+        "primaryTitle": "Inconceivable",
+        "originalTitle": "Inconceivable",
+        "isAdult": false,
+        "startYear": 2017,
+        "endYear": null,
+        "runtimeMinutes": 105,
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "averageRating": 5.2,
+        "numVotes": 11152
+    },
+    {
+        "tconst": "tt3687398",
+        "titleType": "movie",
+        "primaryTitle": "The Runner",
+        "originalTitle": "The Runner",
+        "isAdult": false,
+        "startYear": 2015,
+        "endYear": null,
+        "runtimeMinutes": 90,
+        "genres": [
+            "Drama"
+        ],
+        "averageRating": 4.7,
+        "numVotes": 6064
+    },
+    {
+        "tconst": "tt3696140",
+        "titleType": "movie",
+        "primaryTitle": "Hollywood Waterloo",
+        "originalTitle": "Hollywood Waterloo",
+        "isAdult": false,
+        "startYear": 1994,
+        "endYear": null,
+        "runtimeMinutes": 89,
+        "genres": [
+            "Documentary"
+        ],
+        "averageRating": null,
+        "numVotes": null
+    },
+    {
+        "tconst": "tt3733774",
+        "titleType": "movie",
+        "primaryTitle": "The Trust",
+        "originalTitle": "The Trust",
+        "isAdult": false,
+        "startYear": 2016,
+        "endYear": null,
+        "runtimeMinutes": 92,
+        "genres": [
+            "Action",
+            "Crime",
+            "Mystery"
+        ],
+        "averageRating": 5.5,
+        "numVotes": 21439
+    },
+    {
+        "tconst": "tt3733778",
+        "titleType": "movie",
+        "primaryTitle": "Pay the Ghost",
+        "originalTitle": "Pay the Ghost",
+        "isAdult": false,
+        "startYear": 2015,
+        "endYear": null,
+        "runtimeMinutes": 94,
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "averageRating": 5.2,
+        "numVotes": 19562
+    },
+    {
+        "tconst": "tt3758162",
+        "titleType": "movie",
+        "primaryTitle": "A Score to Settle",
+        "originalTitle": "A Score to Settle",
+        "isAdult": false,
+        "startYear": 2019,
+        "endYear": null,
+        "runtimeMinutes": 103,
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "averageRating": 4.8,
+        "numVotes": 7468
+    },
+    {
+        "tconst": "tt4054654",
+        "titleType": "movie",
+        "primaryTitle": "Dog Eat Dog",
+        "originalTitle": "Dog Eat Dog",
+        "isAdult": false,
+        "startYear": 2016,
+        "endYear": null,
+        "runtimeMinutes": 93,
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "averageRating": 4.8,
+        "numVotes": 10073
+    },
+    {
+        "tconst": "tt4382824",
+        "titleType": "movie",
+        "primaryTitle": "Army of One",
+        "originalTitle": "Army of One",
+        "isAdult": false,
+        "startYear": 2016,
+        "endYear": null,
+        "runtimeMinutes": 92,
+        "genres": [
+            "Biography",
+            "Comedy",
+            "Crime"
+        ],
+        "averageRating": 5.2,
+        "numVotes": 9379
+    },
+    {
+        "tconst": "tt4976192",
+        "titleType": "movie",
+        "primaryTitle": "211",
+        "originalTitle": "211",
+        "isAdult": false,
+        "startYear": 2018,
+        "endYear": null,
+        "runtimeMinutes": 86,
+        "genres": [
+            "Action",
+            "Drama",
+            "Horror"
+        ],
+        "averageRating": 4.4,
+        "numVotes": 10011
+    },
+    {
+        "tconst": "tt5073642",
+        "titleType": "movie",
+        "primaryTitle": "Color Out of Space",
+        "originalTitle": "Color Out of Space",
+        "isAdult": false,
+        "startYear": 2019,
+        "endYear": null,
+        "runtimeMinutes": 111,
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "averageRating": 6.1,
+        "numVotes": 60860
+    },
+    {
+        "tconst": "tt5460530",
+        "titleType": "movie",
+        "primaryTitle": "Vengeance: A Love Story",
+        "originalTitle": "Vengeance: A Love Story",
+        "isAdult": false,
+        "startYear": 2017,
+        "endYear": null,
+        "runtimeMinutes": 99,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "averageRating": 5.2,
+        "numVotes": 9396
+    },
+    {
+        "tconst": "tt5462326",
+        "titleType": "movie",
+        "primaryTitle": "Mom and Dad",
+        "originalTitle": "Mom and Dad",
+        "isAdult": false,
+        "startYear": 2017,
+        "endYear": null,
+        "runtimeMinutes": 86,
+        "genres": [
+            "Comedy",
+            "Horror",
+            "Thriller"
+        ],
+        "averageRating": 5.6,
+        "numVotes": 28808
+    },
+    {
+        "tconst": "tt5580536",
+        "titleType": "movie",
+        "primaryTitle": "Arsenal",
+        "originalTitle": "Arsenal",
+        "isAdult": false,
+        "startYear": 2017,
+        "endYear": null,
+        "runtimeMinutes": 92,
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "averageRating": 4.0,
+        "numVotes": 5155
+    },
+    {
+        "tconst": "tt5792656",
+        "titleType": "movie",
+        "primaryTitle": "Running with the Devil",
+        "originalTitle": "Running with the Devil",
+        "isAdult": false,
+        "startYear": 2019,
+        "endYear": null,
+        "runtimeMinutes": 100,
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "averageRating": 5.4,
+        "numVotes": 10960
+    },
+    {
+        "tconst": "tt6083648",
+        "titleType": "movie",
+        "primaryTitle": "Looking Glass",
+        "originalTitle": "Looking Glass",
+        "isAdult": false,
+        "startYear": 2018,
+        "endYear": null,
+        "runtimeMinutes": 103,
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ],
+        "averageRating": 4.7,
+        "numVotes": 8440
+    },
+    {
+        "tconst": "tt6143568",
+        "titleType": "movie",
+        "primaryTitle": "The Humanity Bureau",
+        "originalTitle": "The Humanity Bureau",
+        "isAdult": false,
+        "startYear": 2017,
+        "endYear": null,
+        "runtimeMinutes": 95,
+        "genres": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "averageRating": 4.5,
+        "numVotes": 12407
+    },
+    {
+        "tconst": "tt6372694",
+        "titleType": "movie",
+        "primaryTitle": "Prisoners of the Ghostland",
+        "originalTitle": "Prisoners of the Ghostland",
+        "isAdult": false,
+        "startYear": 2021,
+        "endYear": null,
+        "runtimeMinutes": 103,
+        "genres": [
+            "Fantasy",
+            "Horror",
+            "Thriller"
+        ],
+        "averageRating": 4.2,
+        "numVotes": 15019
+    },
+    {
+        "tconst": "tt6763730",
+        "titleType": "movie",
+        "primaryTitle": "Becoming Iconic",
+        "originalTitle": "Becoming Iconic",
+        "isAdult": false,
+        "startYear": 2018,
+        "endYear": null,
+        "runtimeMinutes": 85,
+        "genres": [
+            "Biography"
+        ],
+        "averageRating": 6.4,
+        "numVotes": 202
+    },
+    {
+        "tconst": "tt6998518",
+        "titleType": "movie",
+        "primaryTitle": "Mandy",
+        "originalTitle": "Mandy",
+        "isAdult": false,
+        "startYear": 2018,
+        "endYear": null,
+        "runtimeMinutes": 121,
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Horror"
+        ],
+        "averageRating": 6.5,
+        "numVotes": 95029
+    },
+    {
+        "tconst": "tt7295450",
+        "titleType": "movie",
+        "primaryTitle": "Between Worlds",
+        "originalTitle": "Between Worlds",
+        "isAdult": false,
+        "startYear": 2018,
+        "endYear": null,
+        "runtimeMinutes": 90,
+        "genres": [
+            "Fantasy",
+            "Mystery",
+            "Thriller"
+        ],
+        "averageRating": 3.9,
+        "numVotes": 8205
+    },
+    {
+        "tconst": "tt7394816",
+        "titleType": "movie",
+        "primaryTitle": "Primal",
+        "originalTitle": "Primal",
+        "isAdult": false,
+        "startYear": 2019,
+        "endYear": null,
+        "runtimeMinutes": 97,
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "averageRating": 4.9,
+        "numVotes": 11913
+    },
+    {
+        "tconst": "tt8114980",
+        "titleType": "movie",
+        "primaryTitle": "Willy's Wonderland",
+        "originalTitle": "Willy's Wonderland",
+        "isAdult": false,
+        "startYear": 2021,
+        "endYear": null,
+        "runtimeMinutes": 88,
+        "genres": [
+            "Action",
+            "Comedy",
+            "Horror"
+        ],
+        "averageRating": 5.5,
+        "numVotes": 41532
+    },
+    {
+        "tconst": "tt8380776",
+        "titleType": "movie",
+        "primaryTitle": "Grand Isle",
+        "originalTitle": "Grand Isle",
+        "isAdult": false,
+        "startYear": 2019,
+        "endYear": null,
+        "runtimeMinutes": 97,
+        "genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "averageRating": 4.7,
+        "numVotes": 6058
+    },
+    {
+        "tconst": "tt8535180",
+        "titleType": "movie",
+        "primaryTitle": "Kill Chain",
+        "originalTitle": "Kill Chain",
+        "isAdult": false,
+        "startYear": 2019,
+        "endYear": null,
+        "runtimeMinutes": 91,
+        "genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "averageRating": 5.0,
+        "numVotes": 6203
+    },
+    {
+        "tconst": "tt8593824",
+        "titleType": "movie",
+        "primaryTitle": "The Old Way",
+        "originalTitle": "The Old Way",
+        "isAdult": false,
+        "startYear": 2023,
+        "endYear": null,
+        "runtimeMinutes": 95,
+        "genres": [
+            "Action",
+            "Drama",
+            "Western"
+        ],
+        "averageRating": 5.5,
+        "numVotes": 10073
+    },
+    {
+        "tconst": "tt9351746",
+        "titleType": "movie",
+        "primaryTitle": "Love, Antosha",
+        "originalTitle": "Love, Antosha",
+        "isAdult": false,
+        "startYear": 2019,
+        "endYear": null,
+        "runtimeMinutes": 92,
+        "genres": [
+            "Biography",
+            "Documentary",
+            "Music"
+        ],
+        "averageRating": 8.1,
+        "numVotes": 1831
+    },
+    {
+        "tconst": "tt9624766",
+        "titleType": "movie",
+        "primaryTitle": "Jiu Jitsu",
+        "originalTitle": "Jiu Jitsu",
+        "isAdult": false,
+        "startYear": 2020,
+        "endYear": null,
+        "runtimeMinutes": 102,
+        "genres": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "averageRating": 2.9,
+        "numVotes": 10930
+    }
+]

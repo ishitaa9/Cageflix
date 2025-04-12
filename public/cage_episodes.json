@@ -1,0 +1,537 @@
+[
+    {
+        "tconst": "tt0835510",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode #5.150",
+        "originalTitle": "Episode #5.150",
+        "isAdult": false,
+        "startYear": 2006,
+        "runtimeMinutes": null,
+        "genres": [
+            "Documentary"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": 5,
+        "episodeNumber": 150,
+        "seriesId": "tt0315677"
+    },
+    {
+        "tconst": "tt0850925",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode #5.172",
+        "originalTitle": "Episode #5.172",
+        "isAdult": false,
+        "startYear": 2006,
+        "runtimeMinutes": null,
+        "genres": [
+            "Documentary"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": 5,
+        "episodeNumber": 172,
+        "seriesId": "tt0315677"
+    },
+    {
+        "tconst": "tt0963536",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode #6.32",
+        "originalTitle": "Episode #6.32",
+        "isAdult": false,
+        "startYear": 2007,
+        "runtimeMinutes": null,
+        "genres": [
+            "Documentary"
+        ],
+        "averageRating": 9.3,
+        "numVotes": 16,
+        "seasonNumber": 6,
+        "episodeNumber": 32,
+        "seriesId": "tt0315677"
+    },
+    {
+        "tconst": "tt0964857",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode #6.33",
+        "originalTitle": "Episode #6.33",
+        "isAdult": false,
+        "startYear": 2007,
+        "runtimeMinutes": null,
+        "genres": [
+            "Documentary"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": 6,
+        "episodeNumber": 33,
+        "seriesId": "tt0315677"
+    },
+    {
+        "tconst": "tt13097724",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode #1.1",
+        "originalTitle": "Episode #1.1",
+        "isAdult": false,
+        "startYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": 1,
+        "episodeNumber": 1,
+        "seriesId": "tt13060064"
+    },
+    {
+        "tconst": "tt13626922",
+        "titleType": "tvepisode",
+        "primaryTitle": "Fuck",
+        "originalTitle": "Fuck",
+        "isAdult": false,
+        "startYear": 2021,
+        "runtimeMinutes": 20,
+        "genres": [
+            "Comedy",
+            "Documentary"
+        ],
+        "averageRating": 7.1,
+        "numVotes": 631,
+        "seasonNumber": 1,
+        "episodeNumber": 1,
+        "seriesId": "tt13617060"
+    },
+    {
+        "tconst": "tt13626928",
+        "titleType": "tvepisode",
+        "primaryTitle": "Shit",
+        "originalTitle": "Shit",
+        "isAdult": false,
+        "startYear": 2021,
+        "runtimeMinutes": 20,
+        "genres": [
+            "Comedy",
+            "Documentary"
+        ],
+        "averageRating": 6.8,
+        "numVotes": 485,
+        "seasonNumber": 1,
+        "episodeNumber": 2,
+        "seriesId": "tt13617060"
+    },
+    {
+        "tconst": "tt13626944",
+        "titleType": "tvepisode",
+        "primaryTitle": "Bitch",
+        "originalTitle": "Bitch",
+        "isAdult": false,
+        "startYear": 2021,
+        "runtimeMinutes": 20,
+        "genres": [
+            "Comedy",
+            "Documentary"
+        ],
+        "averageRating": 6.5,
+        "numVotes": 453,
+        "seasonNumber": 1,
+        "episodeNumber": 3,
+        "seriesId": "tt13617060"
+    },
+    {
+        "tconst": "tt13626960",
+        "titleType": "tvepisode",
+        "primaryTitle": "Dick",
+        "originalTitle": "Dick",
+        "isAdult": false,
+        "startYear": 2021,
+        "runtimeMinutes": 20,
+        "genres": [
+            "Comedy",
+            "Documentary"
+        ],
+        "averageRating": 6.9,
+        "numVotes": 393,
+        "seasonNumber": 1,
+        "episodeNumber": 4,
+        "seriesId": "tt13617060"
+    },
+    {
+        "tconst": "tt13626978",
+        "titleType": "tvepisode",
+        "primaryTitle": "Pussy",
+        "originalTitle": "Pussy",
+        "isAdult": false,
+        "startYear": 2021,
+        "runtimeMinutes": 20,
+        "genres": [
+            "Comedy",
+            "Documentary"
+        ],
+        "averageRating": 6.6,
+        "numVotes": 374,
+        "seasonNumber": 1,
+        "episodeNumber": 5,
+        "seriesId": "tt13617060"
+    },
+    {
+        "tconst": "tt13626988",
+        "titleType": "tvepisode",
+        "primaryTitle": "Damn",
+        "originalTitle": "Damn",
+        "isAdult": false,
+        "startYear": 2021,
+        "runtimeMinutes": 20,
+        "genres": [
+            "Comedy",
+            "Documentary"
+        ],
+        "averageRating": 6.8,
+        "numVotes": 353,
+        "seasonNumber": 1,
+        "episodeNumber": 6,
+        "seriesId": "tt13617060"
+    },
+    {
+        "tconst": "tt1427334",
+        "titleType": "tvepisode",
+        "primaryTitle": "Very Important Pennis: Part 2",
+        "originalTitle": "Very Important Pennis: Part 2",
+        "isAdult": false,
+        "startYear": 1996,
+        "runtimeMinutes": null,
+        "genres": [
+            "Comedy"
+        ],
+        "averageRating": 6.9,
+        "numVotes": 18,
+        "seasonNumber": 1,
+        "episodeNumber": 2,
+        "seriesId": "tt0246354"
+    },
+    {
+        "tconst": "tt15052584",
+        "titleType": "tvepisode",
+        "primaryTitle": "Nicolas Cage on the Roles That Changed His Life",
+        "originalTitle": "Nicolas Cage on the Roles That Changed His Life",
+        "isAdult": false,
+        "startYear": 2021,
+        "runtimeMinutes": null,
+        "genres": [],
+        "averageRating": 6.7,
+        "numVotes": 7,
+        "seasonNumber": 1,
+        "episodeNumber": 1,
+        "seriesId": "tt15046058"
+    },
+    {
+        "tconst": "tt1809684",
+        "titleType": "tvepisode",
+        "primaryTitle": "Nicolas Cage/Deena Nicole Cortese/Holt McCallany",
+        "originalTitle": "Nicolas Cage/Deena Nicole Cortese/Holt McCallany",
+        "isAdult": false,
+        "startYear": 2011,
+        "runtimeMinutes": null,
+        "genres": [
+            "Talk-Show"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": 1,
+        "episodeNumber": 3,
+        "seriesId": "tt1799915"
+    },
+    {
+        "tconst": "tt1828061",
+        "titleType": "tvepisode",
+        "primaryTitle": "The Battle of the Blockbusters",
+        "originalTitle": "The Battle of the Blockbusters",
+        "isAdult": false,
+        "startYear": 2002,
+        "runtimeMinutes": null,
+        "genres": [
+            "Documentary"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": 1,
+        "episodeNumber": 3,
+        "seriesId": "tt1519189"
+    },
+    {
+        "tconst": "tt1981813",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode dated 4 March 2011",
+        "originalTitle": "Episode dated 4 March 2011",
+        "isAdult": false,
+        "startYear": 2011,
+        "runtimeMinutes": null,
+        "genres": [
+            "Talk-Show"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": null,
+        "episodeNumber": null,
+        "seriesId": "tt1489335"
+    },
+    {
+        "tconst": "tt2134512",
+        "titleType": "tvepisode",
+        "primaryTitle": "Nicolas Cage",
+        "originalTitle": "Nicolas Cage",
+        "isAdult": false,
+        "startYear": 2011,
+        "runtimeMinutes": null,
+        "genres": [
+            "Biography",
+            "Documentary"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": 1,
+        "episodeNumber": 11,
+        "seriesId": "tt2132638"
+    },
+    {
+        "tconst": "tt2227190",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode dated 28 June 2012",
+        "originalTitle": "Episode dated 28 June 2012",
+        "isAdult": false,
+        "startYear": 2012,
+        "runtimeMinutes": null,
+        "genres": [
+            "Talk-Show"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": null,
+        "episodeNumber": null,
+        "seriesId": "tt1489335"
+    },
+    {
+        "tconst": "tt2252379",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode dated 24 February 2012",
+        "originalTitle": "Episode dated 24 February 2012",
+        "isAdult": false,
+        "startYear": 2012,
+        "runtimeMinutes": null,
+        "genres": [
+            "Talk-Show"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": null,
+        "episodeNumber": null,
+        "seriesId": "tt1489335"
+    },
+    {
+        "tconst": "tt31632368",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode #1.1",
+        "originalTitle": "Episode #1.1",
+        "isAdult": false,
+        "startYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": 1,
+        "episodeNumber": 1,
+        "seriesId": "tt30460310"
+    },
+    {
+        "tconst": "tt32365977",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode #1.2",
+        "originalTitle": "Episode #1.2",
+        "isAdult": false,
+        "startYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": 1,
+        "episodeNumber": 2,
+        "seriesId": "tt30460310"
+    },
+    {
+        "tconst": "tt33452921",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode #1.3",
+        "originalTitle": "Episode #1.3",
+        "isAdult": false,
+        "startYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": 1,
+        "episodeNumber": 3,
+        "seriesId": "tt30460310"
+    },
+    {
+        "tconst": "tt33452926",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode #1.4",
+        "originalTitle": "Episode #1.4",
+        "isAdult": false,
+        "startYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": 1,
+        "episodeNumber": 4,
+        "seriesId": "tt30460310"
+    },
+    {
+        "tconst": "tt33498865",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode #1.5",
+        "originalTitle": "Episode #1.5",
+        "isAdult": false,
+        "startYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": 1,
+        "episodeNumber": 5,
+        "seriesId": "tt30460310"
+    },
+    {
+        "tconst": "tt33498870",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode #1.6",
+        "originalTitle": "Episode #1.6",
+        "isAdult": false,
+        "startYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": 1,
+        "episodeNumber": 6,
+        "seriesId": "tt30460310"
+    },
+    {
+        "tconst": "tt33498878",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode #1.7",
+        "originalTitle": "Episode #1.7",
+        "isAdult": false,
+        "startYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": 1,
+        "episodeNumber": 7,
+        "seriesId": "tt30460310"
+    },
+    {
+        "tconst": "tt33498883",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode #1.8",
+        "originalTitle": "Episode #1.8",
+        "isAdult": false,
+        "startYear": null,
+        "runtimeMinutes": null,
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": 1,
+        "episodeNumber": 8,
+        "seriesId": "tt30460310"
+    },
+    {
+        "tconst": "tt3725672",
+        "titleType": "tvepisode",
+        "primaryTitle": "Pilot",
+        "originalTitle": "Pilot",
+        "isAdult": false,
+        "startYear": 1994,
+        "runtimeMinutes": null,
+        "genres": [
+            "Comedy"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": 1,
+        "episodeNumber": 0,
+        "seriesId": "tt0796267"
+    },
+    {
+        "tconst": "tt3725712",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode #1.3",
+        "originalTitle": "Episode #1.3",
+        "isAdult": false,
+        "startYear": 1994,
+        "runtimeMinutes": null,
+        "genres": [
+            "Comedy"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": 1,
+        "episodeNumber": 3,
+        "seriesId": "tt0796267"
+    },
+    {
+        "tconst": "tt7462102",
+        "titleType": "tvepisode",
+        "primaryTitle": "Episode dated 28 October 1989",
+        "originalTitle": "Episode dated 28 October 1989",
+        "isAdult": false,
+        "startYear": 1989,
+        "runtimeMinutes": null,
+        "genres": [
+            "Comedy",
+            "Game-Show",
+            "Music"
+        ],
+        "averageRating": null,
+        "numVotes": null,
+        "seasonNumber": null,
+        "episodeNumber": null,
+        "seriesId": "tt0843412"
+    }
+]
