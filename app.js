@@ -27,9 +27,9 @@ fetch('public/cage_movies_series.json')
             ${item.genres?.join(', ') || 'Unknown'} | ${item.startYear || 'N/A'} | Rating: ${item.averageRating || 'N/A'}
           </p>
           <div class="movie-list-item-icons">
-            <i class="fa-solid fa-circle-play fa-2x movie-list-play-btn"></i>
-            <i class="fa-solid fa-heart fa-2x movie-list-favorite-btn"></i>
-            <i class="fa-solid fa-circle-chevron-down fa-2x movie-list-showmore-btn"></i>
+            <i class="fa-solid fa-circle-play fa-lg movie-list-play-btn"></i>
+            <i class="fa-solid fa-heart fa-lg movie-list-favorite-btn"></i>
+            <i class="fa-solid fa-circle-chevron-down fa-lg movie-list-showmore-btn"></i>
           </div>
         </div>
       `;
@@ -85,48 +85,47 @@ fetch('public/cage_movies_series.json')
 
     // search input field
     const searchInput = document.getElementById('search-input');
+    const searchResultContainer = document.getElementById('search-results');
+
     searchInput.addEventListener('input', function() {
       const searchTerm = this.value.trim();
 
       if (searchTerm === '') {
+        // Show the movie lists again when search is empty
         movieListContainers.forEach(container => container.style.display = 'block');
         arrowIcons.forEach(arrow => arrow.style.display = 'block');
 
+        // Hide search results container
+        searchResultContainer.style.display = 'none';
+
+        // Re-populate the movie lists
         populateContainer(newReleasesContainer, data);
         populateContainer(popularContainer, data);
         populateContainer(nextWatchContainer, data);
       } else {
-        // hide categories and arrows
+        // Hide the movie lists and arrows when search is active
         movieListContainers.forEach(container => container.style.display = 'none');
         arrowIcons.forEach(arrow => arrow.style.display = 'none');
 
-        // fuse.js to search
+        // Perform fuzzy search with fuse.js
         const results = fuse.search(searchTerm);
-
-        // items from the search results
         const filteredData = results.map(result => result.item);
 
-        const searchResultContainer = document.getElementById('search-results');
+        // Populate the search result container with filtered data
         searchResultContainer.innerHTML = '';
         filteredData.forEach(item => {
           searchResultContainer.innerHTML += generateMovieItem(item);
         });
 
+        // Show the search results container
         searchResultContainer.style.display = 'block';
       }
     });
 
-    const searchResultSection = document.createElement('div');
-    searchResultSection.id = 'search-results';
-    searchResultSection.style.display = 'none';
-    document.querySelector('.content-container').appendChild(searchResultSection);
-
+    // Initialize the page with the movie data
     populateContainer(newReleasesContainer, data);
     populateContainer(popularContainer, data);
     populateContainer(nextWatchContainer, data);
 
   })
-
   .catch(error => console.error('Error loading the data:', error));
-
-

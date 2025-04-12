@@ -93,6 +93,9 @@ a:link, a:visited, a:active{
     min-height: calc(100vh - 50px);
     padding: 1rem;
 }
+#search-results .inactive{
+    display: none;
+}
 
 #search-results .movie-list-item {
     width: 100%;
@@ -154,13 +157,12 @@ a:link, a:visited, a:active{
     flex-wrap: nowrap;
     height: 400px;
     align-items: center;
-    margin-bottom: 5px;
     margin-top: -55px;
     overflow-x: auto;
 }
 
 .movie-list-item{
-    margin-right: 60px;
+    margin-right: 50px;
     position: relative;
     transition: transform 0.3s ease;
 }
@@ -217,7 +219,7 @@ a:link, a:visited, a:active{
     padding: 10px;
     font-size: 14px;
     position: absolute;
-    top: 130%;
+    top: 120%;
     left: 45px;
     width: 230px;
     color: lightgray;
@@ -237,7 +239,7 @@ a:link, a:visited, a:active{
     padding-top: 10px;
     cursor: pointer;
     position: absolute;
-    bottom: -50px;
+    bottom: -25px;
     left: 40px;
     opacity: 0;
 }
@@ -249,8 +251,8 @@ a:link, a:visited, a:active{
     padding-bottom: 10px;
     cursor: pointer;
     position: absolute;
-    bottom: -50px;
-    left: 20px;
+    bottom: -25px;
+    left: 5px;
     opacity: 0;
 }
 
@@ -260,7 +262,7 @@ a:link, a:visited, a:active{
     padding-bottom: 10px;
     cursor: pointer;
     position: absolute;
-    bottom: -50px;
+    bottom: -25px;
     right: -30px;
     opacity: 0;
 }
@@ -282,26 +284,14 @@ a:link, a:visited, a:active{
     opacity: 1;
 }
 
-#new-releases-left-arrow {
-    left: 10px;
-}
-
-#new-releases-right-arrow {
-    right: 10px;
-}
-
-#popular-left-arrow {
-    left: 10px;
-}
-
-#popular-right-arrow {
-    right: 10px;
-}
-
+#new-releases-left-arrow,
+#popular-left-arrow,
 #next-watch-left-arrow {
     left: 10px;
 }
 
+#new-releases-right-arrow,
+#popular-right-arrow,
 #next-watch-right-arrow {
     right: 10px;
 }
@@ -315,3 +305,64 @@ a:link, a:visited, a:active{
     border-radius: 8px;
     vertical-align: middle;
 }
+
+.movie-list-item:hover .top-rated-badge{
+    margin-left: 30px;
+}
+
+.footer {
+    background-color: #151515;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-left,
+.footer-right {
+    margin-bottom: 10px;
+}
+
+.footer-left h3 {
+    font-size: 20px;
+    color: #E50914;
+}
+
+.footer-left p {
+    margin-top: 5px;
+    color: lightgray;
+}
+
+.footer-right {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.footer-right a {
+    color: white;
+    font-size: 20px;
+    transition: color 0.3s ease;
+}
+
+.footer-right a:hover {
+    color: #E50914;
+}
+
+.footer-right a i {
+    transition: transform 0.3s ease;
+}
+
+.footer-right a:hover i {
+    transform: scale(1.2);
+}
+
