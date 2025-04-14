@@ -1,4 +1,4 @@
-Welcome to CageFlix — a Netflix-style movie library dedicated entirely to the Nicolas Cage.
+Welcome to Cageflix — a Netflix-style movie library dedicated entirely to Nicolas Cage.
 
 Prerequisits
 - Install Python
@@ -36,7 +36,7 @@ Tech Stack
     - IMDb Datasets
 
  - I used HTML because it's the foundation of any web page. HTML structures the content on the page in a simple yet efficient way. 
- - I used CSS Grid and Flex layout for responsive designe, soo the website can be viewed on different devices, making it visually appealing and user-friendly.
+ - I used CSS Grid and Flex layout for responsive designe, so the website can be viewed on different devices, making it visually appealing and user-friendly.
  - I used JavaScript to bring the page to life. It is lightweight but allows the data to be loaded dynamically, filter them, and update the page without needing to reload. It's essential for adding interactivity for the user.
  - I used Python for data processing because it’s easy to read and powerful. It allows to work with large datasets and perform tasks like filtering movies by Nicolas Cage quickly and efficiently.
  - I used Pandas Library in pythoon because it is designed for working with structured data. I used it to manipulate the IMDb data, filter and clean it easily.
