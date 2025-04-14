@@ -164,7 +164,7 @@ a:link, a:visited, a:active{
 }
 
 .movie-list-item{
-    margin-right: 50px;
+    margin-right: 65px;
     position: relative;
     transition: transform 0.3s ease;
 }
@@ -202,9 +202,13 @@ a:link, a:visited, a:active{
     object-fit: cover;
 }
 
+.movie-list-item:has(.top-rated-badge) .movie-list-item-img {
+    margin-top: 20px;
+  }
+
 .movie-list-item-title{
     background-color: rgba(0, 0, 0, 0.7);
-    font-size: 24px;
+    font-size: 20px;
     font-weight: bold;
     position: absolute;
     padding: 10px;
